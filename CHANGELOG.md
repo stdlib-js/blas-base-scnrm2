@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`72a5a6c`](https://github.com/stdlib-js/stdlib/commit/72a5a6cd80794d51bbb0489c0eab5b8bf4839c27) - **style:** use consistent spacing _(by Athan Reines)_
 -   [`0b59ac0`](https://github.com/stdlib-js/stdlib/commit/0b59ac098da813bb1e8ae93b93b1bb5df30d2a18) - **refactor:** use utility to resolve offset _(by Athan Reines)_
 -   [`81aca47`](https://github.com/stdlib-js/stdlib/commit/81aca4745dae0b9ab083f1c79f6e60617a109f4c) - **fix:** update variable name _(by Athan Reines)_
 -   [`6b0d3fc`](https://github.com/stdlib-js/stdlib/commit/6b0d3fc30e73190cbf953f636e1eb39b02e7260e) - **fix:** update paths, descriptions, and examples [(#2457)](https://github.com/stdlib-js/stdlib/pull/2457) _(by Aman Bhansali)_
