@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-01)
+## Unreleased (2024-10-12)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#2543](https://github.com/stdlib-js/stdlib/issues/2543)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`c0a5dbe`](https://github.com/stdlib-js/stdlib/commit/c0a5dbe868b88f8bcf770e128833d5768c041919) - **test:** achieve complete code coverage in `blas/base/dznrm2` and `blas/base/scnrm2` [(#2977)](https://github.com/stdlib-js/stdlib/pull/2977) _(by Gururaj Gurram)_
 -   [`f53097a`](https://github.com/stdlib-js/stdlib/commit/f53097a6061a65547260d261ea425f3c2039c6f5) - **docs:** update comments _(by Athan Reines)_
 
 </details>
@@ -24,9 +37,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gururaj Gurram
 
 </section>
 
