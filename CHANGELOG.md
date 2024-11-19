@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-01)
+## Unreleased (2024-11-19)
+
+<section class="features">
+
+### Features
+
+-   [`14b8f08`](https://github.com/stdlib-js/stdlib/commit/14b8f08874e0a6fc2f7cc6f31d6876afb159c7e4) - add C `ndarray` implementation for `blas/base/scnrm2` [(#3133)](https://github.com/stdlib-js/stdlib/pull/3133)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`14b8f08`](https://github.com/stdlib-js/stdlib/commit/14b8f08874e0a6fc2f7cc6f31d6876afb159c7e4) - **feat:** add C `ndarray` implementation for `blas/base/scnrm2` [(#3133)](https://github.com/stdlib-js/stdlib/pull/3133) _(by Aman Bhansali)_
 -   [`c0a5dbe`](https://github.com/stdlib-js/stdlib/commit/c0a5dbe868b88f8bcf770e128833d5768c041919) - **test:** achieve complete code coverage in `blas/base/dznrm2` and `blas/base/scnrm2` [(#2977)](https://github.com/stdlib-js/stdlib/pull/2977) _(by Gururaj Gurram)_
 -   [`f53097a`](https://github.com/stdlib-js/stdlib/commit/f53097a6061a65547260d261ea425f3c2039c6f5) - **docs:** update comments _(by Athan Reines)_
 
@@ -37,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Aman Bhansali
 -   Athan Reines
 -   Gururaj Gurram
 
