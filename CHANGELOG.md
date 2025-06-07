@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-17)
+## Unreleased (2025-06-07)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`2e40ad9`](https://github.com/stdlib-js/stdlib/commit/2e40ad9683287aecc1a08663caf41967612f728c) - **docs:** change variable naming for `blas/base/scnrm2` [(#7176)](https://github.com/stdlib-js/stdlib/pull/7176) _(by Shabareesh Shetty)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`14b8f08`](https://github.com/stdlib-js/stdlib/commit/14b8f08874e0a6fc2f7cc6f31d6876afb159c7e4) - **feat:** add C `ndarray` implementation for `blas/base/scnrm2` [(#3133)](https://github.com/stdlib-js/stdlib/pull/3133) _(by Aman Bhansali)_
 -   [`c0a5dbe`](https://github.com/stdlib-js/stdlib/commit/c0a5dbe868b88f8bcf770e128833d5768c041919) - **test:** achieve complete code coverage in `blas/base/dznrm2` and `blas/base/scnrm2` [(#2977)](https://github.com/stdlib-js/stdlib/pull/2977) _(by Gururaj Gurram)_
@@ -49,12 +50,13 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Bhansali
 -   Athan Reines
 -   Gururaj Gurram
 -   Philipp Burckhardt
+-   Shabareesh Shetty
 
 </section>
 
