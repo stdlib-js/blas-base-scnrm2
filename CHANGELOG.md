@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`09c9ceb`](https://github.com/stdlib-js/stdlib/commit/09c9ceb58c6dd23c10f1980094851983c57d693f) - **chore:** fix formatting _(by Athan Reines)_
 -   [`51bf6f9`](https://github.com/stdlib-js/stdlib/commit/51bf6f9d2bb027aacecda87e02f957badbc246b0) - **bench:** fix formatting _(by Athan Reines)_
 -   [`2e40ad9`](https://github.com/stdlib-js/stdlib/commit/2e40ad9683287aecc1a08663caf41967612f728c) - **docs:** change variable naming for `blas/base/scnrm2` [(#7176)](https://github.com/stdlib-js/stdlib/pull/7176) _(by Shabareesh Shetty)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
