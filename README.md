@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import scnrm2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-scnrm2@esm/index.mjs';
+import scnrm2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-scnrm2@v0.2.0-esm/index.mjs';
 ```
 
 #### scnrm2( N, x, strideX )
@@ -149,7 +149,7 @@ var norm = scnrm2.ndarray( 2, x, 1, 1 );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@esm/index.mjs';
 import Complex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-ctor@esm/index.mjs';
-import scnrm2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-scnrm2@esm/index.mjs';
+import scnrm2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-scnrm2@v0.2.0-esm/index.mjs';
 
 function rand() {
     return new Complex64( discreteUniform( 0, 10 ), discreteUniform( -5, 5 ) );
